@@ -1,0 +1,3 @@
+= pusing
+
+<<.../testing-buat-adoc-2.adoc#, Coba Dulu>>
