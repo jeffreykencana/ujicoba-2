@@ -2,8 +2,8 @@
 
 <<../testing-buat-adoc-2.adoc#, Coba Dulu>>
 
-<<.../testing-buat-adoc.adoc#, Coba lagi>>
+<<.././testing-buat-adoc.adoc#, Coba lagi>>
 
-<<.../pandoc/index4.adoc#, pusing>>
+<<.././pandoc/index4.adoc#, pusing>>
 
 
