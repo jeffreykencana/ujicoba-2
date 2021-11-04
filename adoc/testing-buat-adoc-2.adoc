@@ -1,1 +1,3 @@
 = testing
+
+<<./adoc/testing-buat-adoc.adoc#, Testing 1>>
