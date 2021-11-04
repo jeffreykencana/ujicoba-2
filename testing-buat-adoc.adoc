@@ -1,1 +1,4 @@
 = Testing
+
+<<./adoc/testing-buat-adoc-2.adoc#, Tes VSCode>>
+
